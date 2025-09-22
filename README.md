@@ -3,6 +3,7 @@
 This assignment applies different codes for data wrangling and visualization 
 
 Problem 1 
+
 This problem specifies some conditions to filter the dataframe and selects a few columns to be displayed. 
 
 a.) Instru 
@@ -31,6 +32,7 @@ Output
 
 
 Problem 2 
+
 This problem uses the same dataframe in Problem 1. This program visualizes how certain features such as track, gender, and hometown contributes to average grade. 
 
 
