@@ -2,9 +2,9 @@
 
 This assignment applies different codes for data wrangling and visualization 
 
-Problem 1 
+**Problem 1** 
 
-This problem specifies some conditions to filter the dataframe and selects a few columns to be displayed. 
+This problem specifies some conditions to filter the dataframe and selects a few columns to be displayed. This problem mainly uses codes from the pandas library, such as df.loc[], to access rows, columns, and labels. 
 
 a.) Instru 
 
@@ -31,9 +31,9 @@ Output
 ```
 
 
-Problem 2 
+**Problem 2** 
 
-This problem uses the same dataframe in Problem 1. This program visualizes how certain features such as track, gender, and hometown contributes to average grade. 
+This problem uses the same dataframe as Problem 1. The codes applied here are from matplotlib.plyplot library to visualize the data needed. This program visualizes how certain features such as track, gender, and hometown contributes to average grade. With this visualization, the little discrepancies between the average scores per subgroup imply that these selected attributes do not necessarily contribute to a higher average score. 
 
 
 <img width="967" height="421" alt="Screenshot 2025-09-23 025504" src="https://github.com/user-attachments/assets/000b33e8-e6b7-482b-8171-5b8210bc01b4" />
